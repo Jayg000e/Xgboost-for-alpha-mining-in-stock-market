@@ -3,3 +3,5 @@
 * download the packages required
 
 * run .ipynb file
+
+* pdf is for reading purpose

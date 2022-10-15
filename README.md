@@ -4,4 +4,4 @@
 
 * run .ipynb file
 
-* pdf is for reading purpose
+* pdf is only for reading 

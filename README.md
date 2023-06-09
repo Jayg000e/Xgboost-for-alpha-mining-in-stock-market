@@ -1,4 +1,4 @@
-# Jayg000e-Xgboost-for-alpha-mining-in-stock-market
+# Xgboost-for-alpha-mining-in-stock-market
 
 * download the packages required
 
